@@ -29,7 +29,7 @@ python3 pyCalc.py
 
 # Useful tips
 pyCalc support python code like this:
-Python:
+## Python:
 ```sh
 >>> 2+3*2
 8
@@ -37,7 +37,7 @@ Python:
 25
 ```
 
-pyCalc:
+## pyCalc:
 ```sh
 Welcome to pyCalc
 2+3*2
@@ -48,7 +48,7 @@ Welcome to pyCalc
 ```
 
 Also pyCalc support math library functions:
-Python:
+## Python:
 ```sh
 >>> from math import *
 >>> sin(radians(30))
@@ -59,7 +59,7 @@ Python:
 1.0
 ```
 
-pyCalc:
+## pyCalc:
 ```sh
 sin(radians(30))
 0.49999999999999994
@@ -71,6 +71,9 @@ sin(radians(30))**2 + cos(radians(30))**2
 1.0
 ```
 
-If you wath to exit write "exit()"
+If you wath to exit:
+```sh
+exit()
+```
 
 good luck
