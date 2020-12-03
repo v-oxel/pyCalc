@@ -39,7 +39,6 @@ pyCalc support python code like this:
 
 ## pyCalc:
 ```sh
-Welcome to pyCalc
 2+3*2
 8
 
