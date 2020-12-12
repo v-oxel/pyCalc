@@ -46,7 +46,7 @@ pyCalc support python code like this:
 25
 ```
 
-Also pyCalc support math library functions:
+Also pyCalc support `math` library functions:
 ## Python:
 ```sh
 >>> from math import *
