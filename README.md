@@ -74,6 +74,6 @@ If you wath to exit:
 ```sh
 exit()
 ```
-or use Ctrl+C
+or use `Ctrl+C`
 
 good luck
