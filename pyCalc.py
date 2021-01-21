@@ -2,7 +2,7 @@
 from math import *
 
 #welcome
-print("Welcome to pyCalc")
+print('Welcome to pyCalc')
 print()
 
 #main part
